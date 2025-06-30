@@ -16,15 +16,15 @@ This project is a real-time face detection app using OpenCV's Haar cascades and 
 git clone https://github.com/yourusername/Face_detection_app.git
 cd Face_detection_app
 
-💾 Note
+## 💾 Note
 The Haar cascade file is automatically downloaded from Google Drive if not found locally.
 
-📸 Controls
+## 📸 Controls
 q → Quit webcam
 
 s → Save current frame with detected faces
 
-🧠 Technologies
+## 🧠 Technologies
 Python
 
 OpenCV
